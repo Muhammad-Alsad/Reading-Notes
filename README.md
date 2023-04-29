@@ -12,7 +12,12 @@
 ## for the sql Task Heres the solutions and screenShots
 [Click here for more information](./SQL.md)
 
+
+## For Terminal Task 
+[Click here for more information](./Terminal.md)
+
 ------
+
 
 ## Code 102 - Intro to Software Development
 
