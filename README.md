@@ -9,6 +9,8 @@
 
 
 
+* for the sql Task Heres the solutions and screenShots
+[Click here for more information](./SQL.md)
 
 ------
 
