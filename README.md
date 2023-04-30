@@ -8,7 +8,7 @@
 
 
 ## DataStructure && Algorithms 
-[Click here for more information](./DataStructure%26%26Algo.md)
+[Click here for more information](./DataStructureAlgo.md)
 
 
 
