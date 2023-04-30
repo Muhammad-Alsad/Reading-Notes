@@ -22,6 +22,8 @@
 ## For Terminal Task 
 [Click here for more information](./Terminal.md)
 
+## The Growth Mindset
+[Click here for more information](./TheGrowthMindset.MD)
 
 
 
