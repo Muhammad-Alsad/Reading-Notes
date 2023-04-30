@@ -6,8 +6,8 @@
  - A function calls itself directly or indirectly is called recursion 
  - Used in Many Algorithms is building blocks 
  - Breaking the problem in Two ways :   
-    ##### - Base Case
-    ##### - Recursive case
+    #####  Base Case
+    #####  Recursive case
 
  - Wheres the function called it self 
  - Used When it makes the solution clearer 
