@@ -7,6 +7,9 @@
 * Create your Linkin Account 
 
 
+## DataStructure && Algorithms 
+[Click here for more information](./DataStructure%26%26Algo.md)
+
 
 
 ## for the sql Task Heres the solutions and screenShots
