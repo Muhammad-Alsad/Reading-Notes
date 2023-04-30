@@ -1,4 +1,4 @@
-#
+# Growth Mind set 
 
 
 ## Upgrade your technical skills with deliberate practice
