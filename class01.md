@@ -24,4 +24,5 @@
 
 
 ## Things I want to know more about
-    - be good at problem solving uding algorithms && data structure!
+    - know more about Big O
+    - know more about algorithms 
