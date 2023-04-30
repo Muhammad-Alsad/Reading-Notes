@@ -16,10 +16,10 @@
 
  - No data structure is perfect, each one has it's uses
  - theres some mearsure to see how good is the data structure:
-    ##### add()
-    ##### get()
-    ##### sort()
-    ##### searching()
+    - add()
+    - get()
+    - sort()
+    - searching()
      ### All the measure above We call it Big O!!
 
 ------
