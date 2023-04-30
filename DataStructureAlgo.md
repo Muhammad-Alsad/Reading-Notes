@@ -49,16 +49,16 @@
     - We can use them to represent a tree family or html tree  Or binary search tree 
 
  
- # Discussion Questions
+ ## Discussion Questions
     -  1. depends on the specific problem's requirements Analyzing these problem's  will help you select the most suitable data structure
 
     - 2.   By sitting a Base case and right condition to stop the inifinte loop!! 
 
 -----------------------------------
 
- # Things I want to know more about
+ ## Things I want to know more about
     - Algorithms 
     - Big O 
-    -Trees
-    -Queues
+    - Trees
+    - Queues
     
