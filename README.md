@@ -27,11 +27,11 @@
 
 
 
-## Code 102 - Intro to Software Development
+<!-- ## Code 102 - Intro to Software Development
 
 ## Code 201 - Foundations of Software Development
 
-## Code 301 - Intermediate Software Development
+## Code 301 - Intermediate Software Development -->
 
 ## Code 401 - Advanced Software Development
 
@@ -47,9 +47,18 @@
 
 </table> -->
 
-## CLASS-01
+<br>
+
+# Reading Notes
+| # | Read Notes | |    
+| --- | --- | ---
+| class 01 | [Class01](./class01.md) |
+
+
+
+<!-- ## CLASS-01
 ------
-  [Class01](./class01.md)
+  [Class01](./class01.md) -->
 
 
 
