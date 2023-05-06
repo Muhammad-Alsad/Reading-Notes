@@ -54,12 +54,11 @@
 | --- | --- | ---
 | class 01 | [Class01](./class01.md) |
 | class 02 | [Class02](./class02.md) |
+| class 03 | [Class03](./class03.md) |
 
 
 
-<!-- ## CLASS-01
-------
-  [Class01](./class01.md) -->
+
 
 
 
