@@ -55,7 +55,7 @@
 | class 01 | [Class01](./class01.md) |
 | class 02 | [Class02](./class02.md) |
 | class 03 | [Class03](./class03.md) |
-| class 04 | [Class03](./class04.md) |
+| class 04 | [Class04](./class04.md) |
 
 
 
