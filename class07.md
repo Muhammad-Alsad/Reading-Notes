@@ -1,5 +1,6 @@
 # class-07
 
+## Link --> [Class-07](./class07.md)    
 
 #### Explain the concept of variable scope in Python and describe the difference between local and global scope. Provide an example illustrating the usage of both.
  - Local scope: A variable defined within a function has local scope and can only be accessed within that function
@@ -21,3 +22,5 @@
 
 ## Things I want to know more about
     - I want to know more About Algorithm's 
+
+
