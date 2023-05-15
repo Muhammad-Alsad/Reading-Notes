@@ -57,8 +57,8 @@
 | class 03 | [Class03](./class03.md) |
 | class 04 | [Class04](./class04.md) |
 | class 05 | [Class05](./class05.md) |
-| class 0 |  |
-| class 0 |  |
+| class 0  | [Class06](./class06.md) |
+| class 0  | [Class07](./class07.md) |
 | class 0 |  |
 | class 0 |  |
 | class 0 |  |
