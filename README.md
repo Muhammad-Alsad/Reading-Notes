@@ -60,7 +60,7 @@
 | class 0  | [Class06](./class06.md) |
 | class 0  | [Class07](./class07.md) |
 | class 0  | [Stack And Queues ](./StackandQueues.md) |
-| class 0 |  |
+| class 0 | [Class08](./class08.md) |
 | class 0 |  |
 | class 0 |  |
 | class 0 |  |
