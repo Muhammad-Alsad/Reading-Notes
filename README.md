@@ -52,16 +52,16 @@
 # Reading Notes
 | # | Read Notes | |  
 | --- | --- | ---
-| class 01 | [Class01](./class01.md) |
-| class 02 | [Class02](./class02.md) |
-| class 03 | [Class03](./class03.md) |
-| class 04 | [Class04](./class04.md) |
-| class 05 | [Class05](./class05.md) |
-| class 0  | [Class06](./class06.md) |
-| class 0  | [Class07](./class07.md) |
-| class 0  | [Stack And Queues ](./StackandQueues.md) |
-| class 0 | [Class08](./class08.md) |
-| class 0 |  |
+| class 01 | [Class01](./class01.md) 
+| class 02 | [Class02](./class02.md) 
+| class 03 | [Class03](./class03.md) 
+| class 04 | [Class04](./class04.md) 
+| class 05 | [Class05](./class05.md) 
+| class 0  | [Class06](./class06.md) 
+| class 0  | [Class07](./class07.md) 
+| class 0  | [Stack And Queues ](./StackandQueues.md) 
+| class 0 | [Class08](./class08.md) 
+| class 0 |  [Class09](./class09.md)
 | class 0 |  |
 | class 0 |  |
 
