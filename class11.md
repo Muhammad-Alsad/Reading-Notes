@@ -7,6 +7,8 @@
     - Jupyter Lab offers some additional features and benefits compared to Jupyter Notebook.
     - Jupyter Lab provides a more flexible and extensible user interface compared to Jupyter Notebook
     - Jupyter Lab introduces an MDI, which means you can have multiple notebooks, code editors, or other files open simultaneously within different tabs or side by side
+
+    
 #### What are the main functionalities provided by the NumPy library, and how can it be useful in Python programming, particularly for scientific computing and data manipulation tasks?
     - Numerical Python is a powerful library in Python that provides functionality for efficient numerical computations and array manipulation 
     - Efficient Element-Wise Operations
