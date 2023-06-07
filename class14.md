@@ -16,13 +16,13 @@
     - Relational Plots: 
         scatterplot(): This function creates a scatter plot, showing the relationship between two variables.
         lineplot(): This function creates a line plot, useful for showing the trend or change in a variable over time or another continuous dimension.
-        
+
     - Categorical Plots:
          barplot(): This function creates a bar plot, commonly used to compare the values of a categorical variable.
          countplot(): This function creates a count plot, which displays the count of occurrences of each category in a categorical variable.
 
 
-#### Discuss the role of the Seaborn Cheat Sheet in a Python developer’s workflow. What are some key sections or elements featured in the cheat sheet that can help a developer quickly reference Seaborn functionalities?
+#### Discuss the role of the Seaborn Cheat Sheet in a Python developer’s workflow. What are some key sections or elements featured in the cheat sheet that can help a developer quickly reference Seaborn functionalities ?
     - Visual Overview
     - Plot Functions
     - Plot Customization
