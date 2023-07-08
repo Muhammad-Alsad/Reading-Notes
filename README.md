@@ -52,32 +52,52 @@
 # Reading Notes
 | # | Read Notes | |  
 | --- | --- | ---
-| class 01 | [Class01](./class01.md) 
-| class 02 | [Class02](./class02.md) 
-| class 03 | [Class03](./class03.md) 
-| class 04 | [Class04](./class04.md) 
-| class 05 | [Class05](./class05.md) 
-| class 0  | [Class06](./class06.md) 
-| class 0  | [Class07](./class07.md) 
-| class 0  | [Stack And Queues ](./StackandQueues.md) 
-| class 0 | [Class08](./class08.md) 
-| class 0 |  [Class09](./class09.md)
-| class 0 |  [Class11](./class11.md)
-| class 0 |  [Class12](./class12.md)
-| class 0 |  [Class13](./class13.md)
-| class 0 |  [Class14](./class14.md)
-| class 0 |  [Class15](./class15.md)
-| class 0 |  [Class16](./class16.md)
-| class 0 |  [Class17](./class17.md)
-| class 0 |  
-| class 0 |  
-| class 0 |  
-| class 0 |  
-| class 0 |  
-| class 0 |  
-| class 0 |  
-| class 0 |  
-| class 0 |  
+| class 01 | [Class01](./Part1/class01.md) 
+| class 02 | [Class02](./Part1/class02.md) 
+| class 03 | [Class03](./Part1/class03.md) 
+| class 04 | [Class04](./Part1/class04.md) 
+| class 05 | [Class05](./Part1/class05.md) 
+| class 0  | [Class06](./Part1/class06.md) 
+| class 0  | [Class07](./Part1/class07.md) 
+| class 0  | [Stack And Queues ](./Part1/StackandQueues.md) 
+| class 0 | [Class08](./Part1/class08.md) 
+| class 0 |  [Class09](./Part1/class09.md)
+| class 0 |  [Class11](./Part1/class11.md)
+| class 0 |  [Class12](./Part1/class12.md)
+| class 0 |  [Class13](./Part1/class13.md)
+| class 0 |  [Class14](./Part1/class14.md)
+| class 0 |  [Class15](./Part1/class15.md)
+| class 0 |  [Class16](./Part1/class16.md)
+| class 0 |  [Class17](./Part1/class17.md)
+| ## | Part Two "Django" | ##    
+| class 26 |  [Class26](./Part2/Class26.md)
+| class 27 |  [Class]()
+| class 28 |  [Class]()
+| class 29 |  [Class]()
+| class 30 |  [Class]()
+| class 31 |  [Class]()
+| class 32 |  [Class]()
+| class 33 |  [Class]()
+| class 34 |  [Class]()
+| class 35 |  [Class]()
+| class 36 |  [Class]()
+| class 37 |  [Class]()
+| class 38 |  [Class]()
+| class 39 |  [Class]()
+| class 40 |  [Class]()
+| class 41 |  [Class]()
+| class 42 |  [Class]()
+| class 43 |  [Class]()
+| class 44 |  [Class]()
+| class 45 |  [Class]()
+| class 46 |  [Class]()
+| class 47 |  [Class]()
+| class 48 |  [Class]()
+| class 49 |  [Class]()
+| class 50 |  [Class]()
+| class 51 |  [Class]()
+| class 52 |  [Class]()
+| class 53 |  [Class]()
 
 
 
