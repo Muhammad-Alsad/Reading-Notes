@@ -2,6 +2,8 @@
 
 ## Intro to Django
 
+[Link----> Class26](./Class26.md)
+
 ###  Django is a high-level web framework written in Python that allows developers to build web          applications quickly and efficiently. It follows the Model-View-Controller (MVC) architectural pattern
 
 
