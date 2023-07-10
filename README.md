@@ -71,7 +71,7 @@
 | class 0 |  [Class17](./Part1/class17.md)
 | ## | Part Two "Django" | ##    
 | class 26 |  [Class26](./Part2/Class26.md)
-| class 27 |  [Class]()
+| class 27 |  [Class27](./Part2/Class27.md)
 | class 28 |  [Class]()
 | class 29 |  [Class]()
 | class 30 |  [Class]()
