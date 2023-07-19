@@ -73,7 +73,7 @@
 | class 26 |  [Class26](./Part2/Class26.md)
 | class 27 |  [Class27](./Part2/Class27.md)
 | class 28 |  [Class29](./Part2/Class29.md)
-| class 29 |  [Class]()
+| class 29 |  [Class](./Part2/hash_Tables.md)
 | class 30 |  [Class]()
 | class 31 |  [Class]()
 | class 32 |  [Class]()
