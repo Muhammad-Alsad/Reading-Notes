@@ -1,6 +1,6 @@
 # Class 31
 
-[Link ---> Class 31](./Class31.md)
+[Link31](./Class31.md)
 
 ## Django REST Framework & Docker
 
