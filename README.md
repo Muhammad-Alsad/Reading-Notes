@@ -50,8 +50,8 @@
 <br>
 
 # Reading Notes
-| # | Read Notes | |  
-| --- | --- | ---
+| # | Read Notes | |
+| --- | --- | --- |
 | class 01 | [Class01](./Part1/class01.md) 
 | class 02 | [Class02](./Part1/class02.md) 
 | class 03 | [Class03](./Part1/class03.md) 
@@ -69,14 +69,14 @@
 | class 0 |  [Class15](./Part1/class15.md)
 | class 0 |  [Class16](./Part1/class16.md)
 | class 0 |  [Class17](./Part1/class17.md)
-| ## | Part Two "Django" | ##    
+| ## | Part Two "Django" |   
 | class 26 |  [Class26](./Part2/Class26.md)
 | class 27 |  [Class27](./Part2/Class27.md)
 | class 28 |  [Class29](./Part2/Class29.md)
 | class 29 |  [hash_Tables](./Part2/hash_Tables.md)
 | class 30 |  [Class31](./Part2/Class31.md)
-| class 31 |  [Class32](./Part2/Class32.md)
-| class 32 |  [Class]()
+| class 32 |  [Class32](./Part2/Class32.md)
+| class 33 |  [Class33](./Part2/Class33.md)
 | class 33 |  [Class]()
 | class 34 |  [Class]()
 | class 35 |  [Class]()
