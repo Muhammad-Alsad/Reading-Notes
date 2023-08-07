@@ -78,7 +78,7 @@
 | class 32 |  [Class32](./Part2/Class32.md) |
 | class 33 |  [Class33](./Part2/Class33.md) |
 | class 34 |  [Class-34](./Part2/Class34.md) |
-| class 34 |  [Class]() |
+| class 34 |  [Class-36](./Part2/Class36.md) |
 | class 35 |  [Class]() |
 | class 36 |  [Class]() |
 | class 37 |  [Class]() |
