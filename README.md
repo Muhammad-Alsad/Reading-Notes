@@ -81,8 +81,7 @@
 | class 34 | [Class-36](./Part2/Class36.md) | |
 | class 35 | [Graphs](./Part2/Graphs.md) | |
 | class 36 | [Class37](./Part2/Class37.md) | |
-<!-- | class 36 | [Class] -->
-| class 37 |  [Class]() |
+| class 37 |  [Class38](./Part2/Class38.md) ||
 | class 38 |  [Class]() |
 | class 39 |  [Class]() |
 | class 40 |  [Class]() | 
