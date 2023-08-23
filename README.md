@@ -83,7 +83,7 @@
 | class 36 | [Class37](./Part2/Class37.md) | |
 | class 37 |  [Class38](./Part2/Class38.md) ||
 | class 38 |  [Class 39](./Part2/Class39.md) |
-| class 39 |  [Class]() |
+| class 41 |  [Class 41](./Part2/Class41.md) |
 | class 40 |  [Class]() | 
 | class 41 |  [Class]() |
 | class 42 |  [Class]() |
